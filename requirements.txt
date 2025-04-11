@@ -1,0 +1,7 @@
+subprocess
+os
+pandas
+re
+docx
+fitz  # PyMuPDF
+difflib
