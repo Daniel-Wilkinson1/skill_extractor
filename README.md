@@ -1,9 +1,9 @@
-# Skill Extractor (Lightweight)
+# Skill Extractor
 
-A simple Python tool to extract predefined skills from employee CVs (PDF or Word), identify matches using synonyms, and export structured data to Excel.
+A simple Python tool to extract predefined skills from employee CVs (PDF, Word or Text), identify matches using synonyms, and export structured data to Excel.
 
 ## Features
-- Extract skills from `.pdf` or `.docx` files
+- Extract skills from `.pdf`,`.txt` or `.docx` files
 - Handle fuzzy and synonym matches
 - Output a flat Excel file of detected skills
 
