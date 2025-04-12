@@ -1,6 +1,5 @@
-os
+streamlit
 pandas
-re
-docx
-fitz  # PyMuPDF
-difflib
+openpyxl
+python-docx
+pymupdf
